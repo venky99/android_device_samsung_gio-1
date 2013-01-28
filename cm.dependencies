@@ -1,8 +1,8 @@
 [
  {
-   "repository": "android_kernel_samsung_msm7x27",
+   "repository": "android_kernel_samsung_msm-1",
    "target_path": "kernel/samsung/msm7x27",
-   "branch": "cm-10.1"
+   "branch": "M8960AAAAANLYA1030-samsung"
  }, {
    "repository": "android_device_qcom_msm7x27",
    "target_path": "device/qcom/msm7x27",
